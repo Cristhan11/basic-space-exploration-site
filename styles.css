@@ -29,3 +29,7 @@ body {
 .logo {
   width: 100px; /* Set logo width */
 }
+
+#title {
+  text-shadow: 0 0 4px black;
+}
