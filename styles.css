@@ -1,0 +1,25 @@
+body {
+  /* Set background image to universe.jpg */
+  background-image: url("images/universe.jpg");
+
+  /* Make the background image cover the entire page */
+  background-size: cover;
+
+  color: white; /* Set text color to white */
+  text-align: center; /* Center align text */
+
+  font-family: "Orbitron", sans-serif;
+}
+
+.btn {
+  padding: 6px 12px;
+  background: white;
+  border: none;
+
+  /* Inherit font family from body */
+  font-family: inherit;
+}
+
+.underline {
+  border-bottom: 3px solid white; /* Add a white underline */
+}
