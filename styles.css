@@ -1,6 +1,6 @@
 body {
   /* Set background image to universe.jpg */
-  background-image: url("images/universe.jpg");
+  background-image: url("images/galaxy_an.webp");
 
   /* Make the background image cover the entire page */
   background-size: cover;
@@ -22,4 +22,8 @@ body {
 
 .underline {
   border-bottom: 3px solid white; /* Add a white underline */
+}
+
+.logo {
+  width: 100px; /* Set logo width */
 }
