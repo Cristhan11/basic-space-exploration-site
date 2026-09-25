@@ -1,14 +1,16 @@
 body {
+  text-align: center; /* Center align text */
+  font-family: "Orbitron", sans-serif;
+  color: #82a5ca; /* Set text color to white */
+  margin: 0; /* Remove default margin */
+}
+
+#hero {
   /* Set background image to universe.jpg */
   background-image: url("images/galaxy_an.webp");
-
   /* Make the background image cover the entire page */
   background-size: cover;
-
-  color: white; /* Set text color to white */
-  text-align: center; /* Center align text */
-
-  font-family: "Orbitron", sans-serif;
+  padding: 10px 0 40 0; /* Add padding to the top and bottom */
 }
 
 .btn {
